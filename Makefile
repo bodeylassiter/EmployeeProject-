@@ -2,7 +2,7 @@
 # File: Makefile
 # Last Modified: 09/20/2024
 # Purpose: This Makefile is used to compile and link the Employee project, which
-#          includes a base class Employee and derived classes Officer and Supervisor.
+#          includes a base class Employee and derived classes: Officer and Supervisor.
 
 # Compiler
 CC = g++
